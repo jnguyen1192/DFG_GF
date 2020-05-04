@@ -18,7 +18,7 @@ import scipy
 
 
 os.chdir("C:\\Users\johdu\PycharmProjects\DFG_FG")
- # premier image : seredou 2017
+# Image : Diecke 2017 20200504
 
 MSI = 'Diecke_20170205_MSI.tif'
 all_bands='seredou_20170205_allbands.tif'
