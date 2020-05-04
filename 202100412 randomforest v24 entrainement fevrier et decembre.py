@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Mar  4 19:18:31 2020
+Modified on Mon May 4 18:25:31 2020
 
 @author: Hugo
 @author: Johnny
@@ -19,9 +20,9 @@ import scipy
 os.chdir("C:\\Users\Hugo\Desktop\Data for good\Images\\32 bits - 1ere sessions")
  # premier image : seredou 2017
 
-MSI = 'seredou_20170205_MSI.tif'
+MSI = 'Diecke_20170205_MSI.tif'
 all_bands='seredou_20170205_allbands.tif'
-truth_1='seredou_20170205_truth.tif'
+truth_1='Diecke_20170205_GroundTruth.tif'
 
 
 
