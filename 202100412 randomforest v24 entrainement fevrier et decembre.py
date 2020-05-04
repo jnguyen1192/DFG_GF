@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import scipy
 
 
-os.chdir("C:\\Users\Hugo\Desktop\Data for good\Images\\32 bits - 1ere sessions")
+os.chdir("C:\\Users\johdu\PycharmProjects\DFG_FG")
  # premier image : seredou 2017
 
 MSI = 'Diecke_20170205_MSI.tif'
